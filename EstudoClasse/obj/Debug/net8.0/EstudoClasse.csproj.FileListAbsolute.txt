@@ -1,0 +1,14 @@
+C:\Users\caioa\Documents\Caio\VsEstudos\EstudoClasse\EstudoClasse\bin\Debug\net8.0\EstudoClasse.exe
+C:\Users\caioa\Documents\Caio\VsEstudos\EstudoClasse\EstudoClasse\bin\Debug\net8.0\EstudoClasse.deps.json
+C:\Users\caioa\Documents\Caio\VsEstudos\EstudoClasse\EstudoClasse\bin\Debug\net8.0\EstudoClasse.runtimeconfig.json
+C:\Users\caioa\Documents\Caio\VsEstudos\EstudoClasse\EstudoClasse\bin\Debug\net8.0\EstudoClasse.dll
+C:\Users\caioa\Documents\Caio\VsEstudos\EstudoClasse\EstudoClasse\bin\Debug\net8.0\EstudoClasse.pdb
+C:\Users\caioa\Documents\Caio\VsEstudos\EstudoClasse\EstudoClasse\obj\Debug\net8.0\EstudoClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caioa\Documents\Caio\VsEstudos\EstudoClasse\EstudoClasse\obj\Debug\net8.0\EstudoClasse.AssemblyInfoInputs.cache
+C:\Users\caioa\Documents\Caio\VsEstudos\EstudoClasse\EstudoClasse\obj\Debug\net8.0\EstudoClasse.AssemblyInfo.cs
+C:\Users\caioa\Documents\Caio\VsEstudos\EstudoClasse\EstudoClasse\obj\Debug\net8.0\EstudoClasse.csproj.CoreCompileInputs.cache
+C:\Users\caioa\Documents\Caio\VsEstudos\EstudoClasse\EstudoClasse\obj\Debug\net8.0\EstudoClasse.dll
+C:\Users\caioa\Documents\Caio\VsEstudos\EstudoClasse\EstudoClasse\obj\Debug\net8.0\refint\EstudoClasse.dll
+C:\Users\caioa\Documents\Caio\VsEstudos\EstudoClasse\EstudoClasse\obj\Debug\net8.0\EstudoClasse.pdb
+C:\Users\caioa\Documents\Caio\VsEstudos\EstudoClasse\EstudoClasse\obj\Debug\net8.0\EstudoClasse.genruntimeconfig.cache
+C:\Users\caioa\Documents\Caio\VsEstudos\EstudoClasse\EstudoClasse\obj\Debug\net8.0\ref\EstudoClasse.dll
