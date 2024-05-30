@@ -10,5 +10,8 @@ namespace EstudoClasse.Entities
     {
         public string Nome;
         public int Idade;
+        public double Salario;
+        
+        
     }
 }

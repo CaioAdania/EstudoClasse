@@ -1,5 +1,6 @@
 ﻿using EstudoClasse.Entities;
 using System;
+using System.Globalization;
 
 namespace EstudoClasse
 {
@@ -19,6 +20,9 @@ namespace EstudoClasse
             Console.Write("Idade: ");
             p1.Idade = int.Parse(Console.ReadLine());
 
+            Console.Write("Salário: ");
+            p1.Salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
             Console.WriteLine();
             Console.WriteLine("----------------------");
             Console.WriteLine();
@@ -29,6 +33,10 @@ namespace EstudoClasse
 
             Console.Write("Idade: ");
             p2.Idade = int.Parse(Console.ReadLine());
+
+            Console.Write("Salário: ");
+            p2.Salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
             Console.WriteLine();
 
             if (p1.Idade > p2.Idade)
@@ -40,7 +48,16 @@ namespace EstudoClasse
                 Console.WriteLine("Pessoa mais velha: " + p2.Nome);
             }
 
+            double salarioMedio = (p1.Salario + p2.Salario) / 2;
 
+            if(p1.Salario > p2.Salario)
+            {
+                Console.WriteLine(p1.Nome + " tem um Salário maior que " + p2.Nome + " e a média de salário entre os dois é de " + salarioMedio.ToString("F2", CultureInfo.InvariantCulture));
+            }
+            else
+            {
+                Console.WriteLine(p2.Nome + " tem um Salário maior que " + p1.Nome + " e a média de salário entre os dois é de " + salarioMedio.ToString("F2", CultureInfo.InvariantCulture));
+            }
         }
     }
 }
