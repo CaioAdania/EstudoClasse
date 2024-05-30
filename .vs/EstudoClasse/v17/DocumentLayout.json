@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\caioa\\Documents\\Caio\\VsEstudos\\EstudoClasse\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B816C0F-5B49-4AD5-9FFE-4B619A1BF083}|EstudoClasse\\EstudoClasse.csproj|c:\\users\\caioa\\documents\\caio\\vsestudos\\estudoclasse\\estudoclasse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B816C0F-5B49-4AD5-9FFE-4B619A1BF083}|EstudoClasse\\EstudoClasse.csproj|solutionrelative:estudoclasse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B816C0F-5B49-4AD5-9FFE-4B619A1BF083}|EstudoClasse\\EstudoClasse.csproj|c:\\users\\caioa\\documents\\caio\\vsestudos\\estudoclasse\\estudoclasse\\entities\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B816C0F-5B49-4AD5-9FFE-4B619A1BF083}|EstudoClasse\\EstudoClasse.csproj|solutionrelative:estudoclasse\\entities\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B816C0F-5B49-4AD5-9FFE-4B619A1BF083}|EstudoClasse\\EstudoClasse.csproj|c:\\users\\caioa\\documents\\caio\\vsestudos\\estudoclasse\\estudoclasse\\entities\\teams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B816C0F-5B49-4AD5-9FFE-4B619A1BF083}|EstudoClasse\\EstudoClasse.csproj|solutionrelative:estudoclasse\\entities\\teams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B816C0F-5B49-4AD5-9FFE-4B619A1BF083}|EstudoClasse\\EstudoClasse.csproj|c:\\users\\caioa\\documents\\caio\\vsestudos\\estudoclasse\\estudoclasse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B816C0F-5B49-4AD5-9FFE-4B619A1BF083}|EstudoClasse\\EstudoClasse.csproj|solutionrelative:estudoclasse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,26 +30,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Teams.cs",
-              "DocumentMoniker": "C:\\Users\\caioa\\Documents\\Caio\\VsEstudos\\EstudoClasse\\EstudoClasse\\Entities\\Teams.cs",
-              "RelativeDocumentMoniker": "EstudoClasse\\Entities\\Teams.cs",
-              "ToolTip": "C:\\Users\\caioa\\Documents\\Caio\\VsEstudos\\EstudoClasse\\EstudoClasse\\Entities\\Teams.cs",
-              "RelativeToolTip": "EstudoClasse\\Entities\\Teams.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "DocumentIndex": 0,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\caioa\\Documents\\Caio\\VsEstudos\\EstudoClasse\\EstudoClasse\\Entities\\Pessoa.cs",
+              "RelativeDocumentMoniker": "EstudoClasse\\Entities\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\caioa\\Documents\\Caio\\VsEstudos\\EstudoClasse\\EstudoClasse\\Entities\\Pessoa.cs",
+              "RelativeToolTip": "EstudoClasse\\Entities\\Pessoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T14:21:07.725Z",
+              "WhenOpened": "2024-05-30T15:04:38.648Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\caioa\\Documents\\Caio\\VsEstudos\\EstudoClasse\\EstudoClasse\\Program.cs",
               "RelativeDocumentMoniker": "EstudoClasse\\Program.cs",
               "ToolTip": "C:\\Users\\caioa\\Documents\\Caio\\VsEstudos\\EstudoClasse\\EstudoClasse\\Program.cs",
               "RelativeToolTip": "EstudoClasse\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA2wB0AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T14:13:52.843Z",
               "EditorCaption": ""

@@ -1,4 +1,5 @@
 ﻿using EstudoClasse.Entities;
+using System;
 
 namespace EstudoClasse
 {
@@ -6,28 +7,40 @@ namespace EstudoClasse
     {
         static void Main(string[] args)
         {
-            Teams clube = new Teams();
-            Console.Write("Qual seu time de coração? ");
-            clube.Time = Console.ReadLine();
+            Pessoa p1, p2;
+            p1 = new Pessoa();
+            p2 = new Pessoa();
+
+            Console.WriteLine("Dados da primeira pessoa: ");
+            Console.Write("Nome: ");
+            p1.Nome = Console.ReadLine();
+
+
+            Console.Write("Idade: ");
+            p1.Idade = int.Parse(Console.ReadLine());
 
             Console.WriteLine();
-            Console.Write("Quantos titulos tem seu time? ");
-            clube.Titulos = int.Parse(Console.ReadLine());
-
+            Console.WriteLine("----------------------");
             Console.WriteLine();
-            Console.Write("Qual o Ano de criação do seu time? ");
-            clube.Criacao = int.Parse(Console.ReadLine());
 
-            Console.WriteLine();
-            Console.Write("Qual o número de torcedores do seu time? ");
-            clube.Torcedores = double.Parse(Console.ReadLine());
+            Console.WriteLine("Dados da segunda pessoa: ");
+            Console.Write("Nome: ");
+            p2.Nome = Console.ReadLine();
 
+            Console.Write("Idade: ");
+            p2.Idade = int.Parse(Console.ReadLine());
             Console.WriteLine();
-            Console.Write("Qual o rival do seu time? ");
-            clube.Rival = Console.ReadLine();
 
-            Console.WriteLine();
-            Console.WriteLine(clube);
+            if (p1.Idade > p2.Idade)
+            {
+                Console.WriteLine("Pessoa mais velha: " + p1.Nome);
+            }
+            else
+            {
+                Console.WriteLine("Pessoa mais velha: " + p2.Nome);
+            }
+
+
         }
     }
 }
